@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chip-jet.vercel.app/sitemap.xml
